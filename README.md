@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="akzhol.nuketayev@gmail.com" target="_blank">
+  <a href="mailto:akzhol.nuketayev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail%20&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/akzhol-nuketayev/" target="_blank">
